@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	padding:0;
+	font-size:12px;
+	background: url(../images/login/bg_login.jpg) repeat-x;
+}
+.login {position:relative;width:446px;text-align:center;margin:10% auto;}
+.login a{
+	font-size:12px;
+	font-famly:"ËÎÌו";
+	color:#172E4E;
+}
+.head {
+	width:446px;
+	height:43px;
+	background-image: url(../images/login/lg_head.png);
+}
+.info {width:446px;height:44px;background:url(../images/login/lg_info.png);}
+.loghead {width:446px;height:65px;background:url(../images/login/lg_loghead.jpg);}
+.lg_log {width:446px;height:103px;background:url(../images/login/lg_log.jpg);}
+.footer {width:446px;height:23px;background:url(../images/login/lg_foot.png);}
+
+.username {padding-top:2px;padding-left:60px;}
+.password {padding-top:10px;padding-left:60px;}
+.btn {
+	width:130px;
+	height:22px;
+	border:1px solid #B9C3C5;
+	font-size:15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.button {padding-top:8px;padding-left:90px;}

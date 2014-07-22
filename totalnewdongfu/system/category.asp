@@ -1,0 +1,9 @@
+<option>中国梦</option>
+<option>关爱农民工子女</option>
+<option>大学生科技兴农</option>
+<option>科学发展观实践服务</option>
+<option>大力推进生态文明建设</option>
+<option>增强文化创造活力</option>
+<option>大学生支教服务</option>
+<option>建设美丽中国</option>
+<option>提升幸福指数，创造幸福新广东</option>
